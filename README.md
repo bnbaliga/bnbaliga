@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that might capture my fancy
 - 📫 How to reach me bnbaliga@gmail.com
 
-[![Nash’s GitHub stats](https://github-readme-stats.vercel.app/api?username= bnbaliga)](https://github.com/bnbaliga/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=bnbaliga)
 
 <!---
 bnbaliga/bnbaliga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
